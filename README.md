@@ -4,7 +4,7 @@
 - Bitcoin VaR (ARMA-GARCH)
 - PCA on CAC40 equities
 - S&P500 Risk Analysis
-- Blockchain
+- Blockchain problem set
 - Machine learning on Socio-Econs
 - Neural Networks: Retinopathy
 - PCA on CAC40
