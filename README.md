@@ -2,6 +2,7 @@
 
 ## Notebooks
 - Bitcoin VaR (ARMA-GARCH)
+- Markowitz Portfolio Optimization
 - PCA on CAC40 equities
 - S&P500 Risk Analysis
 - Blockchain problem set
@@ -10,7 +11,7 @@
 - PCA on CAC40
 
 ## Reports
-- Portfolio Optimization (Markowitz)
+- Markowitz Portfolio Optimization
 - Market caplitalization and debts Econometrics
 - The Space Industry 
 - Systemic risk
