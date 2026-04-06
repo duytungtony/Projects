@@ -12,7 +12,7 @@
 ## 📁 Reports
 - Portfolio Optimization (Markowitz)
 - Market caplitalization and debts Econometrics
-- - The Space Industry 
+- The Space Industry 
 - Systemic risk
 - HMM
 
