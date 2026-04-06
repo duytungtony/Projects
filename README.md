@@ -1,6 +1,6 @@
 # Quant Finance & Data Science Projects
 
-## 📁 Notebooks
+## Notebooks
 - Bitcoin VaR (ARMA-GARCH)
 - PCA on CAC40 equities
 - S&P500 Risk Analysis
@@ -9,12 +9,12 @@
 - Neural Networks: Retinopathy
 - PCA on CAC40
 
-## 📁 Reports
+## Reports
 - Portfolio Optimization (Markowitz)
 - Market caplitalization and debts Econometrics
 - The Space Industry 
 - Systemic risk
 - HMM
 
-## 🔧 Tools
+## Tools
 Python, Pandas, Scikit-learn, Statsmodels
